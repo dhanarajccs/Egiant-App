@@ -1,2 +1,2 @@
-# Egiant-App
-This is an EGiant Ecommerce App
+# egiant-App
+This is an egiant Ecommerce App
